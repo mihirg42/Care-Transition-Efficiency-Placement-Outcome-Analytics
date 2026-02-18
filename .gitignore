@@ -1,0 +1,14 @@
+# Ignore Git internal folder (not usually required)
+.git/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
